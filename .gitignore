@@ -1,5 +1,6 @@
 # mdBook
 book
+mdbook*
 
 # GitHub Webhooks
 hook
@@ -7,3 +8,6 @@ hook
 # Replit
 .replit
 replit.nix
+
+# Log Files
+**.log
