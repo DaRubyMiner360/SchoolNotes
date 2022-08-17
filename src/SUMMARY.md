@@ -2,15 +2,12 @@
 
 [Home Page](./HomePage.md)
 
-# Compatibility
-- [Compatibility](./Compatibility/Compatibility.md)
-- [Known Incompatibilities](./Compatibility/KnownIncompatibilities.md)
-- [Mod-ID Aliases](./Compatibility/ModIDAliases.md)
-
-# Hybrid Mods
-- [Hybrid Mods](./HybridMods/HybridMods.md)
-
-# Contributing
-- [Contributing](./Contributing/Contributing.md)
-- [Pull Request Guidelines](./Contributing/PullRequestGuidelines.md)
-- [Coding Conventions](./Contributing/CodingConventions.md)
+# 9th Grade
+- [Advanced Biology](./9th/Biology.md)
+- [AP Human Geography](./9th/HumanGeography.md)
+- [Advanced Geometry](./9th/Geometry.md)
+- [English I](./9th/English.md)
+- [AP Computer Science A](./9th/ComputerScience.md)
+- [Life Fitness & Wellness](./9th/LifeFitness.md)
+- [Art I](./9th/Art.md)
+- [Spanish II](./9th/Spanish.md)
